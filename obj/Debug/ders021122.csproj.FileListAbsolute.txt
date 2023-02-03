@@ -1,0 +1,12 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\bin\Debug\ders021122.exe.config
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\bin\Debug\ders021122.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\bin\Debug\ders021122.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.Form1.resources
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders021122\ders021122\obj\Debug\ders021122.Telefon_Rehberi.resources
